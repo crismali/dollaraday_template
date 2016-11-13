@@ -1,0 +1,6 @@
+development:
+  key: "key"
+  api: "api"
+test:
+  key: "key"
+  api: "api"
